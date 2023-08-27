@@ -112,3 +112,16 @@ main {
 .about-info {
     text-align: center;
 }
+
+.skills {
+    display: flex;
+}
+
+.skills-info {
+    padding: 30px;
+    gap: 24px;
+    background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.66);
+    margin-left: 5px;
+}
